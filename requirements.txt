@@ -1,0 +1,6 @@
+kenlm
+numpy
+pandas
+matplotlib
+tqdm
+jupyter
